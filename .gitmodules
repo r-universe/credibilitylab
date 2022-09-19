@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "groundhog"]
-	path = groundhog
-	url = https://github.com/credibilitylab/groundhog
-	shallow = true
-	registered = true
